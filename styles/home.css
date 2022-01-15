@@ -27,31 +27,31 @@ button {
   height: 50px;
 }
 .git-btn {
-  background-image: url("/images/btns/github.png");
+  background-image: url("/link-tree/images/btns/github.png");
   background-size: cover;
   font-size: 2rem;
 }
 
 .linkedin-btn {
-  background-image: url("/images/btns/linkedin.png");
+  background-image: url("/link-tree/images/btns/linkedin.png");
   background-size: cover;
   font-size: 2rem;
 }
 
 .dev-btn {
-  background-image: url("/images/btns/dev.png");
+  background-image: url("/link-tree/images/btns/dev.png");
   background-size: cover;
   font-size: 2rem;
 }
 
 .youtube-btn {
-  background-image: url("/images/btns/youtube.png");
+  background-image: url("/link-tree/images/btns/youtube.png");
   background-size: cover;
   font-size: 2rem;
 }
 
 .kumfu-btn {
-  background-image: url("/images/btns/kumfu.gif");
+  background-image: url("/link-tree/images/btns/kumfu.gif");
   background-size: cover;
   font-size: 2rem;
 }

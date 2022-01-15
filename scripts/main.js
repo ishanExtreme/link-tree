@@ -16,7 +16,7 @@ let loadImage = (src, callback)=>{
 // returns image path
 let getImagePath = (frameNumber, type)=>{
 
-    return "/images/"+type+"/"+frameNumber+".png";
+    return "images/"+type+"/"+frameNumber+".png";
 }
 // load all the images required for an animation and calls the callback function once
 // loading of "all" images are finished
