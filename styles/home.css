@@ -23,43 +23,35 @@ button {
   cursor: pointer;
   margin-bottom: 30px;
   border-radius: 20px;
+  width: 250px;
+  height: 50px;
 }
 .git-btn {
   background-image: url("/images/btns/github.png");
   background-size: cover;
-  width: 250px;
-  height: 50px;
   font-size: 2rem;
 }
 
 .linkedin-btn {
   background-image: url("/images/btns/linkedin.png");
   background-size: cover;
-  width: 250px;
-  height: 50px;
   font-size: 2rem;
 }
 
 .dev-btn {
   background-image: url("/images/btns/dev.png");
   background-size: cover;
-  width: 250px;
-  height: 50px;
   font-size: 2rem;
 }
 
 .youtube-btn {
   background-image: url("/images/btns/youtube.png");
   background-size: cover;
-  width: 250px;
-  height: 50px;
   font-size: 2rem;
 }
 
 .kumfu-btn {
   background-image: url("/images/btns/kumfu.gif");
   background-size: cover;
-  width: 250px;
-  height: 50px;
   font-size: 2rem;
 }
